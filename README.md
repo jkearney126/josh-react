@@ -16,11 +16,11 @@ Git
 Global state/context\
 dynamically rendered routes\
 A simple API\
-useEffect and useState hooks\
+useEffect and useState hooks
 
 ## Want more?
 
-This app was created in a very short amount of time. I can for sure add anything else you want to see. Just shoot me an email.\
+This app was created in a very short amount of time. I can for sure add anything else you want to see. Just shoot me an email.
 
 I also have a cool app live at https://app.thedwellings.tv. Email me for a login.
 
