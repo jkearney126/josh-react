@@ -15,7 +15,6 @@ Git
 ## Cool things to look at
 Global state/context\
 dynamically rendered routes\
-A simple API\
 useEffect and useState hooks
 
 ## Want more?
